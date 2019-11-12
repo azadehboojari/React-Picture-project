@@ -1,5 +1,4 @@
 import React from 'react';
-import { tsConstructorType } from '@babel/types';
 class ImageCard extends React.Component{
     constructor(props){
         super(props);
